@@ -29,7 +29,7 @@
 
 .nav-img{
     height: 50px;
-    width: 175px;
+    width: 160px;
     margin-left: 52px;
     /* size: 40px; */
     /* position: relative; */
@@ -117,14 +117,6 @@
     font-size: 20px;
     font-family: sans-serif;
 }
-
-/* body {
-    align-items: center;
-    background-color: #000;
-    display: flex;
-    justify-content: center;
-    height: 100vh;
-  } */
   
   .form {
     background-color: #15172b;
@@ -243,13 +235,6 @@
   .submit:active {
     background-color: #06b;
   }
-/* .formm{
-    margin-left:300px;
-    background-color: whitesmoke;
-    padding:100px;
-    border: 2px black solid;
-    
-} */
 
 /* ----------Section-1 Styling Ends-------------- */
 
@@ -363,19 +348,6 @@
     bottom:30px;
     /* border: 1px solid black; */
 }
-
-/* .bc2{
-    width: 350px;
-}
-
-.bc3{
-    width: 390px;
-} */
-/* 
-.container2-section1{
-    
-} */
-
 
 /* ----------------Section-2 Styling Ends----------------- */
 
