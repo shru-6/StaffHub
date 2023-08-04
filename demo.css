@@ -439,7 +439,6 @@
 
 .aside{
     /* position:absolute; */
-    
     /* top: 0px; */
     /* float: right; */
     /* position: relative; */
@@ -454,7 +453,7 @@
     flex-wrap: wrap;
     font-family: sans-serif;
     position: sticky;
-    top: 100px;
+    top: 150px;
     margin-top: 70px;
     float: right;
 
@@ -491,14 +490,14 @@
     height: 190px;
 }
 
-.aside-section2{
+/* .aside-section2{
     display: flex;
     flex-wrap: wrap;
     gap:10px 20px;
     margin-top: 30px;
     font-size: 15px;
     color: grey;
-}
+} */
 
 /* ------Aside Styling Ends---------- */
 .baap{
